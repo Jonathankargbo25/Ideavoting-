@@ -1,0 +1,25 @@
+/* Define styles for the home-page container */
+.home-page {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  /* Style the heading */
+  .home-page h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the paragraphs */
+  .home-page p {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the strong tag for emphasis */
+  .home-page strong {
+    font-weight: bold;
+    color: #007bff; /* Blue color for emphasis */
+  }
+  

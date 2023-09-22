@@ -1,0 +1,58 @@
+/* Footer.css */
+
+/* Style for the entire footer */
+.footer {
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+    padding: 20px 0; /* Top and bottom padding */
+    text-align: center; /* Center-align text */
+  }
+  
+  /* Style for the content within the footer */
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px; /* Set a maximum width for the content */
+    margin: 0 auto; /* Center-align content horizontally */
+    padding: 0 20px; /* Add some padding to the sides */
+  }
+  
+  /* Style for the footer logo */
+  .footer-logo h2 {
+    font-size: 24px; /* Adjust the font size */
+    margin: 0; /* Remove default margins */
+  }
+  
+  /* Style for the footer links */
+  .footer-links ul {
+    list-style: none; /* Remove bullet points from the list */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margins */
+  }
+  
+  .footer-links li {
+    display: inline; /* Display list items horizontally */
+    margin-right: 20px; /* Add spacing between list items */
+  }
+  
+  .footer-links a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #fff; /* Text color for links */
+    font-weight: bold; /* Bold text */
+  }
+  
+  /* Style for social media icons */
+  .footer-social a {
+    color: #fff; /* Icon color */
+    font-size: 24px; /* Icon size */
+    margin-right: 15px; /* Add spacing between icons */
+    text-decoration: none; /* Remove underlines */
+  }
+  
+  /* Style for the footer bottom text */
+  .footer-bottom p {
+    margin: 0; /* Remove default margins */
+    font-size: 14px; /* Adjust the font size */
+  }
+  

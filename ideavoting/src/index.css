@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.idea-form {
+  margin-bottom: 25px;
+}
+
+.idea-form input {
+  padding: 5px;
+  margin-right: 15px;
+}
+
+.idea-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+
+.idea {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  max-width: 300px;
+}
+
+.idea button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
